@@ -8,8 +8,8 @@
  * including, but not limited to, copying, modification and redistribution.
  * NO WARRANTY OF ANY KIND IS PROVIDED.
  *
- * This example sends a valid LoRaWAN packet with payload "Hello,
- * world!", using frequency and encryption settings matching those of
+ * This example sends a valid LoRaWAN packet
+ * using frequency and encryption settings matching those of
  * the The Things Network.
  *
  * This uses OTAA (Over-the-air activation), where where a DevEUI and
